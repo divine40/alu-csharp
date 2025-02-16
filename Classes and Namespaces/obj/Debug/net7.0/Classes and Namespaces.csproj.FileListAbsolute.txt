@@ -1,5 +1,0 @@
-C:\Users\Divine\Documents\alu-csharp 2\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Divine\Documents\alu-csharp 2\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.AssemblyInfoInputs.cache
-C:\Users\Divine\Documents\alu-csharp 2\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.AssemblyInfo.cs
-C:\Users\Divine\Documents\alu-csharp 2\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.csproj.CoreCompileInputs.cache
-C:\Users\Divine\Documents\alu-csharp 2\Classes and Namespaces\obj\Debug\net7.0\Classes and Namespaces.sourcelink.json
